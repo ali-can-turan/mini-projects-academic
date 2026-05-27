@@ -17,3 +17,9 @@ Data files that have been utilized in these notebooks / projects have not been i
 [advanced customization in matplotlib](05.matplotlib_advanced_customization.ipynb) - pandas, matplotlib, numpy
 
 [visualisation in seaborn](06.seaborn_visualisation.ipynb) - seaborn, pandas, matplotlib, numpy
+
+[basic machine learning exercise with metrics](07.house_prices_ML.ipynb) - pandas, matplotlib, scikit-learn
+
+[intermediate machine learning exercise with metrics and EDA](08.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
+
+[intermediate machine learning exercise with metrics, feature scaling and training-data balancing](09.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
