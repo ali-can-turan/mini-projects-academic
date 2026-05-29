@@ -18,8 +18,10 @@ Data files that have been utilized in these notebooks / projects have not been i
 
 [visualisation in seaborn](06.seaborn_visualisation.ipynb) - seaborn, pandas, matplotlib, numpy
 
-[basic machine learning exercise with metrics](07.house_prices_ML.ipynb) - pandas, matplotlib, scikit-learn
+[generic data exploration](07.exploratory_data_analysis.ipynb) - pandas, numpy, scipy, matplotlib, seaborn
 
-[intermediate machine learning exercise with metrics and EDA](08.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
+[basic machine learning exercise with metrics](08.house_prices_ML.ipynb) - pandas, matplotlib, scikit-learn
 
-[intermediate machine learning exercise with metrics, feature scaling and training-data balancing](09.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
+[intermediate machine learning exercise with metrics and EDA](09.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
+
+[intermediate machine learning exercise with metrics, feature scaling and training-data balancing](10.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
