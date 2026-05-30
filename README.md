@@ -24,4 +24,6 @@ Data files that have been utilized in these notebooks / projects have not been i
 
 [intermediate machine learning exercise with metrics and EDA](09.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
 
-[intermediate machine learning exercise with metrics, feature scaling and training-data balancing](10.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
+[intermediate machine learning exercise with metrics, scaling engineering and training-data balancing](10.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
+
+[intermediate machine learning exercise with metrics, feature engineering, pipeline use and residuals](11.linearregression_types_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn
