@@ -28,8 +28,10 @@ Data files that have been utilized in these notebooks / projects have not been i
 
 [intermediate machine learning exercise with metrics, feature engineering, pipeline use and residuals](11.linearregression_types_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn
 
-[intermediate machine learning exercise with metrics, EDA, feature engineering](12.insurance_charges_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn
+[intermediate machine learning exercise with data wrangling, metrics, EDA, feature engineering](12.house_sales_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
 
-[intermediate machine learning exercise with metrics, feature engineering, regularization, and early-stopping](13.model_evaluation_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV)
+[intermediate machine learning exercise with metrics, EDA, feature engineering](13.insurance_charges_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn
 
-[advanced machine learning exercise with metrics, feature engineering, feature scaling, regularization, cross validation and early-stopping](14.car_prices_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV), ipywidgets
+[intermediate machine learning exercise with metrics, feature engineering, regularization, and early-stopping](14.model_evaluation_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV)
+
+[advanced machine learning exercise with metrics, feature engineering, feature scaling, regularization, cross validation and early-stopping](15.car_prices_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV), ipywidgets
