@@ -22,10 +22,12 @@ Data files that have been utilized in these notebooks / projects have not been i
 
 [basic machine learning exercise with metrics](08.house_prices_ML.ipynb) - pandas, matplotlib, scikit-learn
 
-[intermediate machine learning exercise with metrics and EDA](09.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
+[basic machine learning exercise with metrics and EDA](09.customer_churn_ML.ipynb) - pandas, matplotlib, scikit-learn
 
 [intermediate machine learning exercise with metrics, feature scaling and training-data balancing](10.imbalanced_data_ML.ipynb) - pandas, matplotlib, scikit-learn, imbalanced-learn
 
 [intermediate machine learning exercise with metrics, feature engineering, pipeline use and residuals](11.linearregression_types_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn
 
-[intermediate machine learning exercise with metrics, feature engineering, feature scaling, regularization, cross validation and early-stopping](12.car_prices_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV), ipywidgets
+[intermediate machine learning exercise with metrics, feature engineering, regularization, and early-stopping](12.model_evaluation_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV)
+
+[advanced machine learning exercise with metrics, feature engineering, feature scaling, regularization, cross validation and early-stopping](13.car_prices_ML.ipynb) - pandas, numpy, matplotlib, seaborn, scikit-learn(GridSearchCV), ipywidgets
