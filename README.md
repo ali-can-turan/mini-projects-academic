@@ -39,3 +39,5 @@ Data files that have been utilized in these notebooks / projects have not been i
 [16. geospatial visualization exercise](16.folium.pdf) - folium
 
 [17. waffle and word-cloud visualization exercise](17.waffle_wordclouds.ipynb) - pywaffle, wordcloud
+
+[18. plotly visualization exercise](18.plotly_intermediate.pdf) - plotly
