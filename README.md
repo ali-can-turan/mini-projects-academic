@@ -41,3 +41,5 @@ Data files that have been utilized in these notebooks / projects have not been i
 [17. waffle and word-cloud visualization exercise](17.waffle_wordclouds.ipynb) - pywaffle, wordcloud
 
 [18. plotly visualization exercise](18.plotly_intermediate.pdf) - plotly
+
+[19. visualization exercise with matplotlib, seaborn, folium and plotly.express](19.all_visualization_tools.ipynb) - matplotlib, seaborn, folium, plotly.express
