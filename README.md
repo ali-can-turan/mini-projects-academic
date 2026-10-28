@@ -45,3 +45,5 @@ Data files that have been utilized in these notebooks / projects have not been i
 [19. visualization exercise with matplotlib, seaborn, folium and plotly.express](19.all_visualization_tools.ipynb) - matplotlib, seaborn, folium, plotly.express
 
 [20. linear regression by linear algebra: solution both by taking inverse and RREF](20.housing_prices_LA.ipynb) - numpy, sympy, pandas, matplotlib, seaborn
+
+[21. hypothesis testing of two population proportions and means (independent and paired)](21.nhanes_2015_2016.ipynb) - numpy, pandas, statsmodels
