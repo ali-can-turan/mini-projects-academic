@@ -1,10 +1,9 @@
-# Academic projects
+# 🎓 Academic projects
 
-This repo consists of projects / codes written in the academic environment.
+> This repo consists of projects / codes written in the academic environment.
+> Data files that have been utilized in these notebooks / projects have not been included in the repo as the outputs seems sufficient to highlight what has been aimed to be performed.
 
-Data files that have been utilized in these notebooks / projects have not been included in the repo as the outputs seems sufficient to highlight what has been aimed to be performed.
-
-#### Projects:
+### Projects:
 
 [01. python fundamentals](01.fundamentals.ipynb) - python
 
